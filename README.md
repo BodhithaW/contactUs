@@ -213,5 +213,3 @@ npm run start
 1. Create a new branch for your feature
 2. Make your changes
 3. Submit a pull request
-
-
