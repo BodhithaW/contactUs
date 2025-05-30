@@ -1,4 +1,7 @@
 # ESOFT Metro Campus Website
+![Website Screenshot](https://github.com/BodhithaW/contactUs/blob/95b0b4559c731c5ab45e717314f88350143b30d9/home.PNG)
+
+
 
 This is the official website for ESOFT Metro Campus, built with Next.js and modern web technologies.
 
